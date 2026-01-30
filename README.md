@@ -67,7 +67,7 @@ Movie-Ticket-Booking-System/
 
 Example:
 
-```
+
 /screenshots
   ├── home.png
 <img width="1895" height="823" alt="Screenshot 2026-01-30 225132" src="https://github.com/user-attachments/assets/2aaea5f4-bf97-466c-9d90-6eb384ddb5cb" />
@@ -76,31 +76,31 @@ Example:
   ├── movies.png
   ├── blog.png
   └── booking.png
-```
+
 
 ---
 
 ## How to Run the Project
 
-1️⃣ Clone the repository
+1️ Clone the repository
 
 ```bash
 git clone https://github.com/rahulpardeshi86/React_.git
 ```
 
-2️⃣ Go to project folder
+2️ Go to project folder
 
 ```bash
 cd React_
 ```
 
-3️⃣ Install dependencies
+3️ Install dependencies
 
 ```bash
 npm install
 ```
 
-4️⃣ Run the project
+4️ Run the project
 
 ```bash
 npm run dev
