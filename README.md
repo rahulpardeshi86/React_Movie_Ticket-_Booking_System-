@@ -68,14 +68,22 @@ Movie-Ticket-Booking-System/
 Example:
 
 
-/screenshots
-  ├── home.png
-<img width="1895" height="823" alt="Screenshot 2026-01-30 225132" src="https://github.com/user-attachments/assets/2aaea5f4-bf97-466c-9d90-6eb384ddb5cb" />
-<img width="1896" height="826" alt="Screenshot 2026-01-30 225223" src="https://github.com/user-attachments/assets/eec6a67c-bb7d-4bfe-a295-e4f8767bfd7d" />
-<img width="1893" height="836" alt="Screenshot 2026-01-30 225306" src="https://github.com/user-attachments/assets/8edbfc30-eeb5-4c57-a3cc-a2440fd0f182" />
-  ├── movies.png
-  ├── blog.png
+/screenshots<br></br>
+  ├── Home.png
+  <img width="1895" height="823" alt="Screenshot 2026-01-30 225132" src="https://github.com/user-attachments/assets/2aaea5f4-bf97-466c-9d90-6eb384ddb5cb" />
+  <img width="1896" height="826" alt="Screenshot 2026-01-30 225223" src="https://github.com/user-attachments/assets/eec6a67c-bb7d-4bfe-a295-e4f8767bfd7d" />
+  <img width="1893" height="836" alt="Screenshot 2026-01-30 225306" src="https://github.com/user-attachments/assets/8edbfc30-eeb5-4c57-a3cc-a2440fd0f182" /><br></br>
+  ├── Abouts.png
+  <img width="1898" height="831" alt="Screenshot 2026-01-30 232000" src="https://github.com/user-attachments/assets/a489a801-9627-4125-ad66-71b95e1a97b6" />
+  <img width="1902" height="794" alt="Screenshot 2026-01-30 232207" src="https://github.com/user-attachments/assets/ec1bd815-ae9b-4436-86e7-f116c0ed4a3a" /><br></br>
+  ├── Blog.png
+  <img width="1900" height="828" alt="Screenshot 2026-01-30 233001" src="https://github.com/user-attachments/assets/b002f786-8999-41df-b907-d3890cadf827" />
+  <img width="1900" height="790" alt="Screenshot 2026-01-30 233114" src="https://github.com/user-attachments/assets/677159bc-5af6-4bf5-81e7-ba30b88b6752" /><br></br>
   └── booking.png
+  <img width="1902" height="794" alt="Screenshot 2026-01-30 232207" src="https://github.com/user-attachments/assets/dc29f1db-cc65-4cf1-a219-8510ac6eeb29" />
+  <img width="1533" height="904" alt="Screenshot 2026-01-30 233520" src="https://github.com/user-attachments/assets/8a8fd1fa-47b7-4808-89b8-65160ec4c054" /><br></br>
+
+
 
 
 ---
