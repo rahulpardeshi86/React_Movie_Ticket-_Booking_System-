@@ -84,7 +84,7 @@ Example:
   <img width="1900" height="790" alt="Screenshot 2026-01-30 233114" src="https://github.com/user-attachments/assets/677159bc-5af6-4bf5-81e7-ba30b88b6752" /><br></br>
   └── booking.png
   
-  <img width="1902" height="794" alt="Screenshot 2026-01-30 232207" src="https://github.com/user-attachments/assets/4d1403a3-7bbf-43f2-bccf-376dd0e789a3" />
+  <img width="1900" height="819" alt="Screenshot 2026-01-30 233353" src="https://github.com/user-attachments/assets/8dc9596f-9535-45a3-ac91-40533864b366" />
   <img width="1533" height="904" alt="Screenshot 2026-01-30 233520" src="https://github.com/user-attachments/assets/8a8fd1fa-47b7-4808-89b8-65160ec4c054" /><br></br>
 
 
