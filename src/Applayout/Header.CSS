@@ -1,0 +1,30 @@
+.navbar.netflix-navbar {
+  background-color: #141414 !important;
+  /* height: 150px !important; */
+  padding: 15px 10px !important;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.netflix-logo {
+  color: #e50914 !important;
+  font-size: 38px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.navbar .nav-link {
+  color: #ffffff !important;
+  margin-right: 15px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.navbar .nav-link:hover {
+  color: #b3b3b3 !important;
+}
+
+.navbar .nav-link.active {
+  border-bottom: 2px solid #e50914;
+}

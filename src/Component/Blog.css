@@ -1,0 +1,77 @@
+.blog-section {
+  background-color: #141414; /* Netflix dark background */
+  color: #ffffff;
+  padding: 60px 20px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.blog-section h1 {
+  font-size: 48px;
+  margin-bottom: 50px;
+  color: #e50914; /* Netflix red accent */
+}
+
+.blog-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.blog-card {
+  background-color: #1c1c1c; /* slightly lighter than body */
+  width: 300px;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(255, 0, 20, 0.3);
+}
+
+.blog-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.blog-content {
+  padding: 20px;
+  text-align: left;
+}
+
+.blog-content h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #e50914;
+}
+
+.blog-date {
+  font-size: 14px;
+  color: #aaaaaa;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.blog-content p {
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+.blog-system-info {
+  margin-top: 60px;
+}
+
+.system-card {
+  background: #111;
+  color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+

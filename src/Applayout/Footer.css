@@ -1,0 +1,40 @@
+.netflix-footer {
+  background-color: #141414;
+  color: #999;
+}
+
+.netflix-footer h4,
+.netflix-footer h6 {
+  color: #fff;
+}
+
+.footer-logo {
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.netflix-footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.netflix-footer ul li {
+  margin-bottom: 8px;
+}
+
+.netflix-footer ul li a {
+  text-decoration: none;
+  color: #999;
+}
+
+.netflix-footer ul li a:hover {
+  color: #fff;
+}
+
+.netflix-footer hr {
+  border-color: #333;
+}
+
+.netflix-footer p {
+  font-size: 14px;
+}

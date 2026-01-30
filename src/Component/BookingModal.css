@@ -1,0 +1,129 @@
+/* Modal background */
+.booktikit {
+  text-align: center;
+  width: 100%;
+}
+
+.movietitle {
+  color: #f30611;
+  font-size: 29px;
+  text-align: center;
+  width: 100%;
+}
+
+.modal-content {
+  background: linear-gradient(180deg, #0c0f12, #1a1c1f);
+  color: #ffffff;
+  border-radius: 14px;
+  border: none;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.9);
+}
+
+/* Modal header */
+.modal-header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.red-modal,
+.red-modal * {
+  color: red;
+}
+
+/* input placeholder bhi red */
+.red-modal ::placeholder {
+  color: red !important;
+}
+
+/* input border bhi red (optional) */
+.red-modal .form-control {
+  border-color: red;
+}
+
+/* invalid feedback red hi rahe */
+.red-modal .invalid-feedback {
+  color: red !important;
+}
+
+
+.modal-title {
+  color: #e50914;
+  /* Netflix red */
+  font-weight: 700;
+}
+
+/* Close button */
+.modal-header .btn-close {
+  filter: invert(1);
+}
+
+/* Modal body */
+.modal-body h5 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.modal-body p {
+  color: #cfcfcf;
+}
+
+/* Labels */
+.form-label {
+  color: #bfbfbf;
+  font-size: 14px;
+}
+
+/* Inputs */
+.form-control {
+  background-color: #111315;
+  color: #ffffff;
+  border: 1px solid #2c2f33;
+  border-radius: 6px;
+}
+
+.form-control:focus {
+  background-color: #111315;
+  color: #ffffff;
+  border-color: #e50914;
+  box-shadow: none;
+}
+
+/* Invalid input */
+.form-control.is-invalid {
+  border-color: #e50914;
+  background-image: none;
+}
+
+.invalid-feedback {
+  color: #ff6b6b;
+}
+
+/* Total price */
+.modal-body strong {
+  color: #e50914;
+}
+
+/* Footer */
+.modal-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Buttons */
+.modal-footer .btn-secondary {
+  background-color: #2a2d31;
+  border: none;
+  color: #fff;
+}
+
+.modal-footer .btn-secondary:hover {
+  background-color: #3a3f45;
+}
+
+.modal-footer .btn-success {
+  background-color: #e50914;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+}
+
+.modal-footer .btn-success:hover {
+  background-color: #f40612;
+}

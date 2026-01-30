@@ -1,0 +1,90 @@
+/* Card wrapper - Dark background */
+.card {
+  border: none;
+  border-radius: 14px; /* smooth rounded corners */
+  overflow: hidden;
+  background: linear-gradient(180deg, #0c0f12 0%, #272829 100%); /* dark gradient */
+  color: #fff; /* white text */
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer;
+  position: relative;
+}
+.movie-type{
+  font-size: 30px;
+  color: #dc232d;
+}
+/* Hover effect */
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.7); /* deep cinematic shadow */
+  z-index: 2;
+}
+
+/* Movie image */
+.card-img-top {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  transition: transform 0.4s ease, filter 0.4s ease;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.05);
+  filter: brightness(1.1); /* subtle brightness on hover */
+}
+
+/* Card body */
+.card-body {
+  padding: 15px;
+}
+
+.card-body h5 {
+  font-size: 21px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  text-align: center;
+  color: #e50914; /* Netflix red accent */
+}
+
+.card-body p {
+  margin-bottom: 2px;
+  font-size: 14px;
+  color: #f1ebeb; /* light text for contrast */
+  line-height: 1.4;
+  padding-left: 16px;
+
+}
+.card-body h4 {
+  /* margin-right: 6px; */
+  padding-left: 16px;
+  /* margin: 0; */
+  font-size: 20px;
+  color: #f1ebeb; /* light text for contrast */
+  line-height: 1.4;
+}
+
+/* Card footer */
+.card-footer {
+  padding: 12px 15px;
+  background: transparent; /* blends with dark card */
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Book / Action button */
+.card-footer .btn {
+  background-color: #dc232d; /* red accent */
+  color: #fff; /* white text */
+  border: none; /* no border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5); /* subtle darker shadow instead of white */
+  font-weight: 600;
+  padding: 14px 16px;
+  border-radius: 6px;
+  transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-footer .btn:hover {
+  transform: scale(1.08);
+  background-color: #f40612; /* brighter red on hover */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.7); /* darker pop shadow */
+}

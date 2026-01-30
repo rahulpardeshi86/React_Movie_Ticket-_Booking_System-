@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Money Heist",
+    "image": "/images/Money Heist.webp",
+    "rating": 9.4,
+    "price": 999
+  },
+   {
+    "id": 2,
+    "title": "Queen of Tears",
+    "image": "/images/Queen of Tears.jpg",
+    "rating": 8.3,
+    "price": 859
+  },
+   {
+    "id": 3,
+    "title": "Squid Game",
+    "image": "/images/Squid Game.jpg",
+    "rating": 7.4,
+    "price": 499
+  }, {
+    "id": 4,
+    "title": "Stranger Things",
+    "image": "/images/Stranger Things.jpg",
+    "rating": 6.2,
+    "price": 399
+  }, {
+    "id": 5,
+    "title": "The Crown",
+    "image": "/images/The Crown.webp",
+    "rating": 9.1,
+    "price": 799
+  }, {
+    "id": 6,
+    "title": "The Witcher.jpg",
+    "image": "/images/The Witcher.jpg",
+    "rating": 5.5,
+    "price": 349
+  }
+ 
+]

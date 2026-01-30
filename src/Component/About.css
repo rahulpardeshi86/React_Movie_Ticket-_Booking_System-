@@ -1,0 +1,57 @@
+.about-section {
+  background-color: #141414; /* Netflix dark background */
+  color: #ffffff;
+  padding: 60px 20px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.about-hero {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.about-hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #e50914; /* Netflix red accent */
+}
+
+.about-hero p {
+  font-size: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.6;
+  color: #ffffff;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.about-card {
+  background-color: #1c1c1c; /* slightly lighter than body */
+  padding: 30px;
+  border-radius: 8px;
+  width: 300px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.about-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(255, 0, 20, 0.3);
+}
+
+.about-card h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #e50914;
+}
+
+.about-card p {
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 1.5;
+}
